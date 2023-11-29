@@ -1,0 +1,160 @@
+Name: Tags
+Id: g=694cf94e05ea07fd89ac2f2288f2a166
+Type: FolderType
+Children:
+- Name: ModbusTag1
+  Type: ModbusTag
+  DataType: Byte
+  Value: 0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 0
+- Name: ModbusTag2
+  Type: ModbusTag
+  DataType: SByte
+  Value: 0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 1
+- Name: ModbusTag3
+  Type: ModbusTag
+  DataType: Int16
+  Value: 0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 2
+- Name: ModbusTag4
+  Type: ModbusTag
+  DataType: UInt16
+  Value: 0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 3
+- Name: ModbusTag5
+  Type: ModbusTag
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 4
+- Name: ModbusTag6
+  Type: ModbusTag
+  DataType: UInt32
+  Value: 0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 5
+- Name: ModbusTag7
+  Type: ModbusTag
+  DataType: Float
+  Value: 0.0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 6
+- Name: ModbusTag8
+  Type: ModbusTag
+  DataType: Double
+  Value: 0.0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 7
+- Name: ModbusTag9
+  Type: ModbusTag
+  DataType: Int64
+  Value: 0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 8
+- Name: ModbusTag10
+  Type: ModbusTag
+  DataType: UInt64
+  Value: 0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 9
+- Name: ModbusTag11
+  Type: ModbusTag
+  DataType: String
+  Value: "0"
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 10
+- Name: ModbusTag12
+  Type: ModbusTag
+  DataType: Boolean
+  Value: false
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+  - Name: HMEID
+    Type: BaseDataVariableType
+    DataType: UInt32
+    Value: 11
