@@ -41,6 +41,10 @@ Children:
     Type: BaseDataVariableType
     DataType: UInt32
     Value: 2
+  - Name: MemoryArea
+    Type: BaseDataVariableType
+    DataType: ModbusMemoryArea
+    Value: 0
 - Name: ModbusTag4
   Type: ModbusTag
   DataType: UInt16
